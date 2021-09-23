@@ -14,7 +14,7 @@ module.exports = {
   },
 
   output: {
-    publicPath: "http://localhost:3003/",
+    publicPath: "auto",
   },
 
   resolve: {
