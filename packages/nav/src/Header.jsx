@@ -5,7 +5,7 @@ export default () => (
   <AppBar position="relative">
     <Toolbar>
       <Typography variant="h6" color="inherit" noWrap>
-        Header
+        New Header
       </Typography>
     </Toolbar>
   </AppBar>
